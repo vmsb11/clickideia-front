@@ -1,6 +1,6 @@
 # clickideia-front
 
-Projeto criado [Create React App](https://github.com/facebook/create-react-app).
+Projeto criado com [Create React App](https://github.com/facebook/create-react-app).
 
 ## Instalação
 
