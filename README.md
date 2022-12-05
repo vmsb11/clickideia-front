@@ -2,6 +2,8 @@
 
 Projeto criado com [Create React App](https://github.com/facebook/create-react-app).
 
+Para maiores informações, uma apresentação de slides com a descrição do desenvolvimento do projeto está disponível no repositório.
+
 ## Instalação
 
 Clone o repositório e instale as dependências.
